@@ -1,2 +1,3 @@
+include ':ringlibrary'
 include ':app'
 rootProject.name = "demo"
